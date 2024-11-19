@@ -3,7 +3,7 @@
 🌟 **Full-Stack Developer | Lifelong Learner**  
 
 💻 **Crafting Digital Experiences:**  
-I specialize in building dynamic and scalable web applications with a strong emphasis on user experience, performance, and functionality. I thrive on solving problems and bringing ideas to life with code.  
+"I specialize in building dynamic and scalable web applications using frontend technologies like HTML, CSS, JavaScript, React, and backend technologies such as Node.js, Express, and MongoDB. I focus on creating seamless user experiences while ensuring high performance and functionality. I thrive on solving problems and bringing innovative ideas to life through clean and efficient code."  
 
 🌐 **Passionate About Open-Source:**  
 I believe in the power of community and enjoy contributing to projects that impact developers worldwide.  
