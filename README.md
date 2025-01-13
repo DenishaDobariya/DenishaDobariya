@@ -53,9 +53,5 @@ Technology evolves rapidly, and so do I! I'm constantly exploring new tools and 
 
 ---
 
-## 📫 Let's Connect  
-
-- 🌐 **[LinkedIn](https://www.linkedin.com/in/denisha-dobariya-992069281/)**   
-
 ## "Thanks for stopping by! Feel free to reach out anytime. Until next time, take care! 😊👋"
   
